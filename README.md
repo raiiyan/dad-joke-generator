@@ -3,6 +3,7 @@
 A fun, responsive web app that delivers a fresh dad joke at the tap of a button. Built with React, featuring a playful design, mobile-first responsiveness, and a memorable "dad" mascot logo.
 
 ![Dad Joke Generator Screenshot](screenshot1.png)
+![Dad Joke Generator Screenshot](screenshot2.png)
 
 ## 🚀 Features
 
