@@ -1,0 +1,69 @@
+{
+  "short_name": "DadJokes",
+  "name": "Dad Joke Generator by Raiiyan",
+  "description": "A fun and responsive Dad Joke Generator web app to brighten your day with classic dad jokes. Built by Raiiyan.",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["entertainment", "humor", "fun", "jokes", "pwa"],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#fc466b",
+  "background_color": "#fffbe9",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "540x1080",
+      "type": "image/png",
+      "label": "Main screen with dad joke"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "540x1080",
+      "type": "image/png",
+      "label": "Responsive layout"
+    }
+  ],
+  "related_applications": [],
+  "shortcuts": [
+    {
+      "name": "Random Dad Joke",
+      "short_name": "Joke",
+      "description": "Get a random dad joke instantly",
+      "url": "/",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    }
+  ],
+  "author": "Raiiyan Hossain",
+  "developer": {
+    "name": "Raiiyan Hossain",
+    "url": "https://raiyan-hossain.vercel.app/"
+  }
+}
